@@ -1,0 +1,14 @@
+This is the python code for finding the 5 maximum and minimum occuring words in a given file of very large size.
+
+Please follow the guidelines below to run the python program.
+
+1. Install Python 3 on your system.
+2. Copy and paste the input file(100.txt) in the directory where python is installed ; by default the directory is C:/python as by default python is installed in this directory. (If in case you have python in any separate directory please update the directory where you have the file in line number 89 of the code)
+3. Run the program -  It takes time for large file so wait for the output
+4. as an output the program gives the 5 maximum and minimum occuring words in a given file
+
+
+Note: This code takes a lot of time for large files like 100.txt (>2hr) ; therefore i have attached another file 10.txt (which is of 1/10 the size of the input file) ; the code runs in minutes for it and give the correct output .
+So please select which ever file you want to use and name in at line number 89 of code.
+
+Contact me at vishalpandey92@live.com for any queries.

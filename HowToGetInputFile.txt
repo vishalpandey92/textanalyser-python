@@ -1,0 +1,5 @@
+you can download the main input file named 100.txt from http://www.gutenberg.org/ebooks/100 
+
+from the above link download the file as text(txt)
+
+It is a very big file ; the programs could take hours to compile so i have uploaded a small subset of the same document to text the working of the code and with that the code gives the correct output
